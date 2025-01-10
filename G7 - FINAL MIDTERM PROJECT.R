@@ -3,7 +3,6 @@
 # Quinto, Raven Luke
 # Lawrenz Mikael Alcaparaz
 # Ricamae Calugtong
-# Breenz Ruiz Juanillo
 # Rachelle Cunanan
 
 # 1. CHOOSE A DATASET #####################################################################
