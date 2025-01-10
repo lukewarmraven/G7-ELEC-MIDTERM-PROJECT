@@ -1,9 +1,9 @@
 # # GROUP 7 MIDTERM PROJECT ##########################################################
 # Members:
 # Quinto, Raven Luke
-# Lawrenz Mikael Alcaparaz
-# Ricamae Calugtong
-# Rachelle Cunanan
+# Alcaparaz, Lawrenz Mikael
+# Calugtong, Ricamae
+# Cunanan, Rachelle
 
 # 1. CHOOSE A DATASET #####################################################################
 # The dataset chosen is the Framingham Heart Study about Risks of Coronary Heart Diseases
